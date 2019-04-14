@@ -1,0 +1,11 @@
+# Compile
+bazel*
+*.o
+
+# Mac Os
+.DS_Store
+
+# source code
+code/*.py
+code/src/*.html
+code/src/*.cpp
